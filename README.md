@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mounisiddi03@gmail.com**
 
-- Resume https://drive.google.com/file/d/1_oB26qQJwY6LLMv7dG7JFfCGE6ueIiXs/view?usp=drive_link
+- Resume   <a href="https://drive.google.com/file/d/1_oB26qQJwY6LLMv7dG7JFfCGE6ueIiXs/view?usp=drive_link">Mounika Siddi</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
