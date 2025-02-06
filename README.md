@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaheswar27&label=Profile%20views&color=0e75b6&style=flat" alt="umamaheswar27" /> </p>
 
-- 🔭 I graduated with my bachelor of engineering in information technology at Vasireddy Venkatadri Institute of Technology.
+- 🔭 I graduated with my bachelor of technology in information technology at Vasireddy Venkatadri Institute of Technology.
 
 - 🤝 I’m actively looking for entry level roles to work with wonderful tech companies and happy to connect with anyone.
   
