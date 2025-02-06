@@ -22,7 +22,7 @@
 </p>
 <h3 align="left">Projects and Links:</h3>
 
-<a href=" https://mounikasiddi.github.io/WeatherForecast/">WeatherForecast</a>
+<a href="https://mounikasiddi.github.io/WeatherForecast/">WeatherForecast</a>
 
 - Developed a Web Appliction Using APIs to forecast the weather of city. 
 
